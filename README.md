@@ -10,3 +10,5 @@ rails '~> 5.2.1'
 
 gem 'capybara', '>= 2.15'
 
+  gem 'selenium-webdriver'
+
